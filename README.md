@@ -9,7 +9,9 @@
 
 
 # Projeto (API) 
-Analisar e entender o fluxo de mercadorias, e desenvolver com o aeroporto novas formas para encontrar novos clientes, para importação e exportação.
+ O projeto integrador (API) é um projeto pedagógico, onde o ensino é focado no desenvolvimento de competências e fundamentos, com base nesses pilares o projeto tem como intuito mapear potenciais cargas para movimentação no
+Aeroporto de São José dos Campos com base de dados de importações e exportações de municípios da RMVALE e Litoral Norte. 
+
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -22,13 +24,7 @@ Analisar e entender o fluxo de mercadorias, e desenvolver com o aeroporto novas 
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
-
+O projeto tem como Objetivo identificar quais produtos e quantidades são viáveis na exportação e importação, com base nesses dados poderemos identificar quais são os principais parceiros e quais poderão vir a ser.
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
