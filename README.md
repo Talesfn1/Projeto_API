@@ -41,12 +41,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
   > Jira Software
 > Power BI
 > Slack
- ### Tecnologias da Informação
- > GitHub
-  > Jira Software
-> Power BI
-> Slack
-
 # Sprints
 
 Sprint | Previsão | Status| Histórico|
