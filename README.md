@@ -65,7 +65,7 @@ Requisitos não funcionais
   
 <div align="center">
     
-![product backlog](https://github.com/Talesfn1/Projeto_API/blob/main/Backlogdoproduto.png)
+![product backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BacklogA.png)
 </div>
   
 ## Sprint 1. Concepção
