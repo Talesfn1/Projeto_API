@@ -1,4 +1,4 @@
-# Projeto Integrado (API)
+# Projeto Integrador (API)
 # Índice
 
 * [Projeto](#projeto-template)
