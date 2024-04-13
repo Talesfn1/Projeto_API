@@ -59,7 +59,7 @@ Requisitos funcionais
 Requisitos não funcionais
 - Usar tecnologias especifícas/apoio/tecnológicas
 - Metodologias ágil
-- Power BI e Jira 
+- Power BI / Jira / GitHub
   
 ## Sprint 1. Concepção
 - [ ] Defina o propósito do template;
