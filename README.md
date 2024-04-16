@@ -89,7 +89,7 @@ Requisitos não funcionais
 # Apresentação das Sprints
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Apresentação da Sprint 1 [(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
+#### Apresentação da Sprint 1 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%20Slide%201.pdf)
 
 # Competências desenvolvidas
 
