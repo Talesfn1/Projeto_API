@@ -75,7 +75,7 @@ Requisitos não funcionais
 </div>
 
 # Burndown
-![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
+![sprint backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Burndown.png)
   
 ## Sprint 1. Concepção
 - [x] Criação do GitHub de cada membro;
