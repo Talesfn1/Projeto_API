@@ -71,13 +71,13 @@ Requisitos não funcionais
 </div>
   
 ## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Teste e revise;
-- [x] Documente instruções de uso;
-- [x] Finalize e aprovação.
+- [x] Criação do GitHub de cada membro;
+- [x] Estruturação do Repositor do projeto;
+- [x] Etruturação do JiraSoftware;
+- [x] Pesquisas para estruturação do projeto;
+- [x] Prenchimento do Jira e GitHub;
+- [x] Documentação em relatorio da Sprint 1;
+- [x] Revisão e finalização.
 
 # Competências desenvolvidas
 
