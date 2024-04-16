@@ -1,7 +1,7 @@
 # Projeto Integrador (API)
 # Índice
 
-* [Projeto](#projeto)
+* [Projeto](#projeto-API)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#Sprints)
