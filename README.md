@@ -69,6 +69,9 @@ Requisitos não funcionais
 # Backlog das Sprints
 ![sprint backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Backlogsprint.png)
 </div>
+
+# Burndown
+![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
   
 ## Sprint 1. Concepção
 - [x] Criação do GitHub de cada membro;
