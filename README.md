@@ -5,6 +5,8 @@
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#Sprints)
+* [Backlog do Produto](#Backlog-do-produto)
+* [Backlog da Sprints](#Backlog-da-Sprints)
 * [Apresentação das Sprints](#Apresentação-das-sprints)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
