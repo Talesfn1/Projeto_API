@@ -8,6 +8,7 @@
 * [Backlog do Produto](#Backlog-do-produto)
 * [Backlog da Sprints](#Backlog-das-Sprints)
 * [Apresentação das Sprints](#Apresentação-das-sprints)
+* [Burndown](#Burndown)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 
