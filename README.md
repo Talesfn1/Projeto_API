@@ -5,6 +5,7 @@
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#Sprints)
+* [Apresentação das Sprints](#Apresentação-das-sprints)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 
@@ -81,6 +82,11 @@ Requisitos não funcionais
 - [x] Prenchimento do Jira e GitHub;
 - [x] Documentação em relatorio da Sprint 1;
 - [x] Revisão e finalização.
+
+# Apresentação das Sprints
+Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+
+#### Apresentação da Sprint 1 [(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
 
 # Competências desenvolvidas
 
