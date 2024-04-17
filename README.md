@@ -5,7 +5,7 @@
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#Sprints)
-* [Backlog do Produto](#Backlog-do-produto)
+* [Priorização](#Priorização)
 * [Backlog da Sprints](#Backlog-das-Sprints)
 * [Apresentação das Sprints](#Apresentação-das-sprints)
 * [Burndown](#Burndown)
@@ -65,7 +65,7 @@ Requisitos não funcionais
 - Metodologias ágil
 - Power BI / Jira / GitHub
 
-# Backlog do produto
+# Priorização
   
 <div align="center">
     
