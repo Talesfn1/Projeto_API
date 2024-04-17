@@ -65,13 +65,13 @@ Requisitos não funcionais
 - Metodologias ágil
 - Power BI / Jira / GitHub
 
-# Priorização
+# Backlog das Sprints
   
 <div align="center">
     
-![product backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Backlog1.png)
-# Backlog das Sprints
 ![sprint backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Backlogsprint.png)
+# Priorização
+![product backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Backlog1.png)
 </div>
 
 # Burndown
