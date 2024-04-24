@@ -28,7 +28,7 @@ Aeroporto de São José dos Campos com base de dados de importações e exporta�
 
 
 # Objetivo do Projeto
-O projeto tem como Objetivo identificar quais produtos e quantidades são viáveis na exportação e importação, com base nesses dados poderemos identificar quais são os principais parceiros e quais poderão vir a ser.
+O Projeto tem como objetivo criar interfaces que permitam a visualização de cargas que tenham potencial para exportação pelo aeroporto de SJK.
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
