@@ -78,7 +78,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Identificação das Cargas transportadas via aeroporto;
 - [x] Conversão dos dados no Power BI ;
 - [x] Identificar principais produtos exportados na RM Vale;
-- [x] Criação do Dashboard com evolução mensal por valor/peso e FOB da exportações;
+- [x] Criação do Dashboard com evolução mensal por valor/peso da exportações;
 - [x] Documentação em relatório sobre todo o progresso na 2ª Sprint;
 
 # Apresentação das Sprints
