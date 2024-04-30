@@ -74,6 +74,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Preenchimento do Jira e GitHub;
 - [x] Documentação em relatorio da Sprint 1;
 - [x] Revisão e finalização.
+## Sprint 2. Inicio
+- [x] Identificação das Cargas transportadas via aeroporto;
+- [x] Conversão dos dados em Power BI ;
+- [x] Identificar principais produtos importados e exportados na RM Vale;
+- [x] Criação do Dashboard com evolução mensal por valor/peso e FOB das importações e exportações;
+- [x] Documentação em relatório sobre todo o progresso na 2ª Sprint;
 
 # Apresentação das Sprints
 #### Apresentação da Sprint 1 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%20Slide%201.pdf)
