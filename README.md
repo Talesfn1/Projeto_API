@@ -76,7 +76,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Revisão e finalização.
 ## Sprint 2. Inicio
 - [x] Identificação das Cargas transportadas via aeroporto;
-- [x] Conversão dos dados em Power BI ;
+- [x] Conversão dos dados no Power BI ;
 - [x] Identificar principais produtos importados e exportados na RM Vale;
 - [x] Criação do Dashboard com evolução mensal por valor/peso e FOB das importações e exportações;
 - [x] Documentação em relatório sobre todo o progresso na 2ª Sprint;
