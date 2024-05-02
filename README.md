@@ -66,7 +66,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ### Sprint 1
 ![sprint backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Burndown.png)
   
-## Sprint 1. Concepção
+## Sprint 1. 
 - [x] Criação do GitHub de cada membro;
 - [x] Estruturação do Repositório do projeto;
 - [x] Estruturação do JiraSoftware;
