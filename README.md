@@ -85,6 +85,10 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Identificar principais produtos exportados na RM Vale;
 - [x] Criação do Dashboard com evolução mensal por valor/peso das exportações;
 - [x] Documentação em relatório sobre todo o progresso na 2ª Sprint;
+## Sprint 3. 
+- [x] Implementação no Dashboard de filtros por município da RM vale, por carga, por volume e por valor FOB ;
+- [x] Pesquisar quais cargas poderiam ser transportadas por aeroporto.;
+- [x] Documentação em relatório sobre todo o progresso na 3ª Sprint e Atualização do GitHub;
 
 # Apresentação das Sprints
 #### Apresentação da Sprint 1 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%20Slide%201.pdf)
