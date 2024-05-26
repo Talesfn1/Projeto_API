@@ -63,7 +63,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Sprint 2
 ![product backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Sprint2.png)
 ## Sprint 3
-![product backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Sprint2.png)
+![product backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/3sprint.png)
 </div>
 
 # Burndown
