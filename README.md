@@ -93,7 +93,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Apresentação das Sprints
 #### Apresentação da Sprint 1 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%20Slide%201.pdf)
 #### Apresentação da Sprint 2 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%20(1).pdf)
-#### Apresentação da Sprint 2 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%20(1).pdf)
+#### Apresentação da Sprint 3 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%203.pdf)
 
 # Competências desenvolvidas
 
