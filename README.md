@@ -40,9 +40,9 @@ O Projeto tem como objetivo criar interfaces que permitam a visualização de ca
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------| 
-|01 | 15/04/2024 | Concluído | [Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/Relatorio1.pdf) | 
+|01 | 15/04/2024 | Concluído |  | 
 |02|  06/05/2024| Concluído |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/Relat%C3%B3rio%20sprint%202.pdf) | 
-|03| 27/05/2024 | A Fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| 27/05/2024 | Concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |04| 17/06/2024 | A Fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|27/06/2024 | A Fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
