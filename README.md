@@ -71,6 +71,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ![sprint backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Burndown.png)
 ### Sprint 2
 ![sprint backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Burndown%232.png)
+### Sprint 3
+![sprint backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Burndown3.png)
   
 ## Sprint 1. 
 - [x] Criação do GitHub de cada membro;
