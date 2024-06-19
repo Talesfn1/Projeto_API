@@ -75,7 +75,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ![sprint backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Burndown%232.png)
 ### Sprint 3
 ![sprint backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Burndown3.png)
-
+### Sprint 4
+![sprint backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Burndown4.png)
   
 ## Sprint 1. 
 - [x] Criação do GitHub de cada membro;
@@ -103,6 +104,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 #### Apresentação da Sprint 1 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%20Slide%201.pdf)
 #### Apresentação da Sprint 2 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%20(1).pdf)
 #### Apresentação da Sprint 3 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%203.pdf)
+#### Apresentação da Sprint 4 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%203.pdf)
 
 # Competências desenvolvidas
 
